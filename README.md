@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## 📩 Contact
 For any queries or suggestions, reach out via:
-📧 Email: your-email@example.com
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+📧 Email: brother.dushime@gmail.com
+💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/dushime-brother-704096297/)
 
